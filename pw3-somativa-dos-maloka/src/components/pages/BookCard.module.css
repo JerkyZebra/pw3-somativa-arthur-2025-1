@@ -5,9 +5,10 @@
     border-radius: 5px;
     width: max-content;
     padding: 5px;
-    background-color: #dedede;
+    background-color: #DEDEDE;
     border: 1px solid #CCC;
     font-family: Helvetica;
+    margin: 5px;
 }
 
 .titulo{
@@ -19,6 +20,6 @@
 }
 
 img{
-   width: 80px;
-   border-radius: 5px;
+    width: 80px;
+    border-radius: 5px;
 }
